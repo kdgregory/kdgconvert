@@ -1,0 +1,8 @@
+<FindBugsFilter>
+
+    <Match>
+        <Bug pattern='WMI_WRONG_MAP_ITERATOR' />
+        <!-- iterating keys can often be more readable; performance difference in negligible -->
+    </Match>
+
+</FindBugsFilter>

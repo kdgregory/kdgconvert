@@ -1,0 +1,9 @@
+<document xmlns="http://maven.apache.org/changes/1.0.0">
+	<properties>
+		<title>KDGConvert Change Log</title>
+	</properties>
+
+    <body>
+		<release version="1.0.0" date="TBD" description="First production release"/>
+	</body>
+</document>
